@@ -1,25 +1,26 @@
-# Fresh or Rotten Fruits Classification
+# Clasificación de frescura de frutas
 
-## Dataset preparation
+El ejercicio se encuentra resuelto en `computer_vision.ipynb`. Para un resumen del proceso se puede abrir `presentation.ipynb`.
 
-1. Download the dataset from [here](https://share.natasquad.com/index.php/s/D2BHJSt5nY3idPd).
+## Preparación del conjunto de datos
 
-2. Copy the **Test** and **Train** folders into a the **data/dataset** folder.
+1. Descargar el conjunto de datos [aquí](https://share.natasquad.com/index.php/s/D2BHJSt5nY3idPd).
 
-## Pretrained weights download
+2. Copiar las carpetas **Test** y **Train** hacia `8-Computer Vision/data/dataset`.
 
-This project uses the pretrained weights of ResNet50V2 and Xception for fine tuning.
-These weights can be downloaded from:
+## Descargar pesos preentrenados
+
+La solución del proyecto utiliza pesos preentrenados de **ResNet50V2** y **Xception**. Estos pesos pueden ser descargados de:
 
 - [ResNet50V2](https://storage.googleapis.com/tensorflow/keras-applications/resnet/resnet50v2_weights_tf_dim_ordering_tf_kernels_notop.h5)
 - [Xception](https://storage.googleapis.com/tensorflow/keras-applications/xception/xception_weights_tf_dim_ordering_tf_kernels_notop.h5)
 
-The downloaded files must be copied to `data/resnet_base` in case of ResNet50V2 weights and to `data/xception_base` for Xception model weights.
+Los archivos descargados deben ser copiados a `8-Computer Vision/data/resnet_base` para **ResNet50V2** y `8-Computer Vision/data/xception_base` para **Xception**. 
 
-## Preprocess, training and evaluation
+## Ejecución de la solución
 
-Run the cells in `computer_vision.ipynb` once the steps above are completed. This should run the complete pipeline for all models and create the used models and metrics.
+Correr las celdas de `computer_vision.ipynb` una vez los pasos de preparación estén completados. El Notebook se creó con el objetivo de correr las celdas de manera secuencial.
 
-## Detailed explanation of the process
+## Presentación de la solución
 
-The `presentation.ipynb`'s cells will contain a detailed explanation of all the problem processes.  
+El documento `presentation.ipynb` un resumen de los procesos de la solución.  
