@@ -6,7 +6,7 @@ This repository was created with NataSquad AI Hackathon.
 
 ### Build docker image
 
-`docker build -t datascience:1.0 .\docker`
+`docker build -t datascience:1.1 .\docker`
 
 This image contains the latest tensorflow version with support for jupyter notebook and GPU.
 
@@ -21,7 +21,7 @@ Some other packages were installed:
 
 To run the container this command can be executed in windows terminal:
 
-- `docker run -it --rm -v ${PWD}:/tf/notebooks --gpus all -p 8888:8888 datascience:1.0`
+- `docker run -it --rm -v ${PWD}:/tf/notebooks --gpus all -p 8888:8888 datascience:1.1`
 
 Then open a browser with the authentication link provided in the logs.
 
