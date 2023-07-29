@@ -1,6 +1,6 @@
 *.ipynb_checkpoints
 0-General
-1-Customer Churn
+# 1-Customer Churn
 # 2-Time Series Forecasting
 # 3-Customer Segmentation
 4-Fraud Detection
