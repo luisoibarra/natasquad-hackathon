@@ -4,7 +4,7 @@ Repositorio creado para la participación en **NataSquad AI Hackathon**.
 
 ## Problemas
 
-El problema de participación es el problema **[8 Computer Vision](/8-Computer Vision/README.md)**.
+El problema de participación es el problema **[8 Computer Vision](/8-Computer%20Vision/README.md)**.
 
 Además de este problema se incursionó en darle solución parcial o total a otros problemas de la competencia.
 
