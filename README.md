@@ -10,7 +10,7 @@ Además de este problema se incursionó en darle solución parcial o total a otr
 
 ## Cuerpo del issue de participación
 
-```
+```plaintext
 Título:  Luis Ibarra Problema 8 Computer Vision.
 
 Cuerpo:
@@ -27,6 +27,10 @@ Repositorio de solución: https://github.com/luisoibarra/natasquad-hackathon.git
 ## Ambiente de trabajo
 
 Para trabajar se utiliza Python 3.8.10 sobre un contenedor de Docker con las dependencias instaladas. Se sugiere utilizar el mismo método en caso de desear correr los programas.
+
+### Colab
+
+Algunos notebook fueron hechos para que se pudieran ejecutar en Colab. Ejemplo de esto es el notebook del ejericio 8.
 
 ### Pip
 
