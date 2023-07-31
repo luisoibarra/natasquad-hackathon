@@ -29,6 +29,17 @@ Los archivos descargados deben ser copiados a `8-Computer Vision/data/resnet_bas
 
 1. Correr celda encargadas de descargar el conjunto de datos.
 
+## Descargar modelos entrenados
+
+Los pesos de los modelos entrenados se encuentran disponibles [aquí](https://drive.google.com/file/d/1FdXUER1Z6hlS9FZq60Vp6IhqlciuBGcK/view?usp=drive_link)
+
+Los modelos necesitan ser descomprimidos y puestos de tal forma que quede así la estructura de la carpeta `8-Computer Vision`:
+
+- model
+  - resnet_transfer_learning
+  - resnet20
+  - xception_transfer_learning
+
 ## Ejecución de la solución
 
 Correr las celdas de `computer_vision.ipynb` una vez los pasos de preparación estén completados. El Notebook se creó con el objetivo de correr las celdas de manera secuencial.
