@@ -6,7 +6,7 @@ Repositorio creado para la participación en **NataSquad AI Hackathon**.
 
 El problema de participación es el problema **[8 Computer Vision](/8-Computer%20Vision/README.md)**.
 
-Además de este problema se incursionó en darle solución parcial o total a otros problemas de la competencia.
+Además de este problema, se incursionó en darle solución parcial o total a otros problemas de la competencia.
 
 ## Cuerpo del issue de participación
 
@@ -21,7 +21,7 @@ Correo: luise98cu@gmail.com
 
 Número de teléfono: +53 58420636
 
-Repositorio de solución: https://github.com/luisoibarra/natasquad-hackathon.git.
+Repositorio de solución: https://github.com/luisoibarra/natasquad-hackathon
 ```
 
 ## Ambiente de trabajo
@@ -30,7 +30,7 @@ Para trabajar se utiliza Python 3.8.10 sobre un contenedor de Docker con las dep
 
 ### Colab
 
-Algunos notebook fueron hechos para que se pudieran ejecutar en Colab. Ejemplo de esto es el notebook del ejericio 8.
+Algunos notebook fueron hechos para que se pudieran ejecutar en Colab. Ejemplo de esto es el notebook del ejercicio 8.
 
 ### Pip
 

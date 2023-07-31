@@ -37,4 +37,4 @@ El notebook se puede correr de igual manera en Colab. Se recomienda el uso de GP
 
 ## Presentación de la solución
 
-El documento `presentation.ipynb` un resumen de los procesos de la solución.  
+El documento `presentation.ipynb` contiene un resumen de los procesos de la solución.  
